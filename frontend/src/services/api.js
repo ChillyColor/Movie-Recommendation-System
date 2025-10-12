@@ -1,6 +1,6 @@
 
 
-const BACKEND_URL = "https://movie-recommendation-system-bdnt.onrender.com/api";
+const BACKEND_URL = "https://movie-recommendation-system-backend-zcnn.onrender.com/api";
 
 export const getPopularMovies = async () => {
   const response = await fetch(`${BACKEND_URL}/popular`);
