@@ -41,7 +41,7 @@ app.get("/api/movie/:id", async (req, res) => {
 app.get("/api/genres", async (req, res) => {
   const response = await fetch(`${BASE_URL}/genre/movie/list?api_key=${API_KEY}`);
   const data = await response.json();
-  res.json(data.genres);
+  res.json(data);
 });
 
 // Movies by genre
