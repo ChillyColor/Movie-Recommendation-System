@@ -1,4 +1,4 @@
-# 🎬 Movie Review System (MRS)
+# 🎬 Movie Recommendation System (MRS)
 
 A modern, full-stack web application for discovering, browsing, and managing your favorite movies. Built with React and Express.js, this application provides a seamless movie discovery experience with real-time data from The Movie Database (TMDB) API.
 
@@ -242,3 +242,4 @@ If you encounter any issues or have questions:
 **Made with ❤️ by [Your Name]**
 
 *Happy movie browsing! 🍿*
+
