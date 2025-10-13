@@ -132,7 +132,7 @@ fetch('http://localhost:5000/api/movie/550')
 ## 🏗️ Project Structure
 
 ```
-movie-review-system/
+movie recommendaion system/
 ├── backend/
 │   ├── server.js          # Express server with API routes
 │   ├── package.json       # Backend dependencies
@@ -180,16 +180,12 @@ movie-review-system/
 
 **Backend:**
 ```bash
-npm start          # Start production server
-npm run dev        # Start development server
+node server #Start the backend Server
 ```
 
 **Frontend:**
 ```bash
 npm run dev        # Start development server
-npm run build      # Build for production
-npm run preview    # Preview production build
-npm run lint       # Run ESLint
 ```
 
 ### Code Style
@@ -229,17 +225,10 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 - Vite team for the fast build tool
 - All contributors who help improve this project
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/movie-review-system/issues) page
-2. Create a new issue with detailed description
-3. Contact the maintainers
-
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Aakarsh Divyam**
 
 *Happy movie browsing! 🍿*
+
 
