@@ -57,6 +57,10 @@
   }
 
   .search-form {
+    display:flex;
+    flex-direction: column;
+    align-items:2rem;
+    margin-top:2rem;
     margin-bottom: 1rem;
   }
 }
