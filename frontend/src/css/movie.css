@@ -284,10 +284,6 @@
 }
 
 @media (max-width: 768px) {
-  .movie-container {
-    padding: 1rem;
-  }
-
   .movie-header {
     flex-direction: column;
     gap: 2rem;
