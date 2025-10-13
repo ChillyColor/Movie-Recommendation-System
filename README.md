@@ -55,8 +55,8 @@ A modern, full-stack web application for discovering, browsing, and managing you
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/movie-review-system.git
-cd movie-review-system
+git clone https://github.com/yourusername/movie-recommendation-system.git
+cd movie-recommendation-system
 ```
 
 ### 2. Backend Setup
@@ -230,5 +230,6 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by Aakarsh Divyam**
 
 *Happy movie browsing! 🍿*
+
 
 
