@@ -175,19 +175,6 @@ movie recommendaion system/
 - Handles loading states and error management
 
 ## 🛠️ Development
-
-### Available Scripts
-
-**Backend:**
-```bash
-node server #Start the backend Server
-```
-
-**Frontend:**
-```bash
-npm run dev        # Start development server
-```
-
 ### Code Style
 - ESLint configuration for consistent code quality
 - Modern ES6+ JavaScript features
@@ -214,9 +201,6 @@ npm run dev        # Start development server
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -230,6 +214,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by Aakarsh Divyam**
 
 *Happy movie browsing! 🍿*
+
 
 
 
