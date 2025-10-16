@@ -8,7 +8,7 @@ dotenv.config();
 const app = express();
 app.use(cors({
   origin: ['https://movie.aakarsh.me',
-           process.env,FRONTEND_URL,
+           process.env.FRONTEND_URL,
            'https://localhost:5173'
           ] 
 }));
