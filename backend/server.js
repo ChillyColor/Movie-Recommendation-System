@@ -7,7 +7,10 @@ import dotenv from "dotenv";
 dotenv.config();
 const app = express();
 app.use(cors({
-  origin: 'https://www.movie.aakarsh.me' 
+  origin: ['https://movie.aakarsh.me',
+           process.env,FRONTEND_URL,
+           'https://localhost:5173'
+          ] 
 }));
 
 const API_KEY = process.env.TMDB_API_KEY;
